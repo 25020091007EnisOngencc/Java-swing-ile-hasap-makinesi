@@ -1,36 +1,84 @@
-🧮 Java Swing ile Hesap Makinesi (Advanced GUI)
-Bu proje, modern kullanıcı arayüzü prensipleriyle tasarlanmış, Java Swing tabanlı bir hesap makinesi uygulamasıdır. Yazılım, sadece temel matematiksel işlemleri gerçekleştirmekle kalmaz, aynı zamanda estetik bir kullanıcı deneyimi sunmak için özelleştirilmiş bileşenler içerir.
+💳 Java Swing ile Hesap Makinesi
 
-🌟 Neden Bu Proje?
-Bu çalışma, üniversite eğitimim sürecinde Mühendislik Tasarım ve Mimarlık Fakültesi bünyesinde öğrendiğim nesne yönelimli programlama temellerini gerçek bir arayüz projesine dönüştürmek amacıyla geliştirilmiştir.
+Java Swing kullanılarak geliştirilmiş masaüstü hesap makinesi uygulamasıdır.
+Temel dört işlem yapabilen, kullanıcı dostu grafik arayüze sahip bir GUI projesidir.
 
-✨ Gelişmiş Özellikler
-Hassas Hesaplama: double veri tipi ile yüksek hassasiyetli ondalıklı işlem desteği.
+🚀 Özellikler
 
-Kullanıcı Dostu Arayüz: Casio donanım arayüzlerinden esinlenen, sezgisel buton yerleşimi ve renk konfigürasyonu.
+➕ Toplama
 
-Dinamik Veri Yönetimi: İşlem geçmişini ve anlık girdileri yöneten optimize edilmiş algoritma yapısı.
+➖ Çıkarma
 
-Görsel Geri Bildirim: Buton etkileşimleri ve ekran güncellemeleri için akıcı UI geçişleri.
+✖️ Çarpma
 
-🏗️ Teknik Mimari
-Proje, modüler bir yapı üzerine inşa edilmiştir:
+➗ Bölme
 
-UI Katmanı: JFrame ve JPanel hiyerarşisi ile oluşturulan görsel yapı.
+🧮 Gerçek zamanlı sonuç gösterimi
 
-Mantık Katmanı (Logic): İşlem operatörlerini ve matematiksel fonksiyonları yöneten arka plan kodları.
+🖥️ Java Swing GUI
 
-Olay Yönetimi (Event Handling): ActionListener kullanılarak tasarlanmış buton tetikleme mekanizmaları.
+🎯 Basit ve anlaşılır tasarım
 
-🛠️ Geliştirme Ortamı
-İşletim Sistemi: Windows 11.
+🛠️ Kullanılan Teknolojiler
 
-IDE: Apache NetBeans IDE 29.
+Java
 
-Donanım Özellikleri:
+Java Swing
 
-RAM: 32GB.
+Ant (build.xml)
 
-GPU: NVIDIA RTX 5060.
+NetBeans / IntelliJ IDEA
 
-Depolama: 1TB SSD.
+💻 Geliştirme Ortamı (Development Environment)
+
+Bu proje aşağıdaki sistem üzerinde geliştirilmiştir:
+
+🖥️ İşletim Sistemi: Windows 11
+
+⚙️ İşlemci: Intel Core i7
+
+🧠 RAM: 32 GB
+
+💾 Depolama: 1 TB SSD
+
+🎮 Ekran Kartı: NVIDIA GeForce RTX 5060
+
+☕ JDK: (Kullandığın Java sürümünü buraya yazabilirsin – örn: Java 17)
+
+📂 Proje Yapısı
+Java-swing-ile-hesap-makinesi
+│
+├── src/
+├── build.xml
+├── manifest.mf
+├── README.md
+└── LICENSE
+▶️ Nasıl Çalıştırılır?
+IDE ile
+
+Projeyi klonlayın:
+
+git clone https://github.com/kullaniciadi/Java-swing-ile-hesap-makinesi.git
+
+NetBeans veya IntelliJ IDEA ile açın
+
+Main sınıfını çalıştırın
+
+Terminal ile
+javac Main.java
+java Main
+🎯 Projenin Amacı
+
+Bu proje:
+
+Java Swing öğrenmek
+
+GUI mantığını kavramak
+
+Event (ActionListener) kullanımını öğrenmek
+
+Nesne yönelimli programlama pratiği yapmak
+
+amacıyla geliştirilmiştir.
+
+
