@@ -6,19 +6,12 @@ Temel dört işlem yapabilen, kullanıcı dostu grafik arayüze sahip bir GUI pr
 🚀 Özellikler
 
 ➕ Toplama
-
 ➖ Çıkarma
-
 ✖️ Çarpma
-
 ➗ Bölme
-
 🧮 Gerçek zamanlı sonuç gösterimi
-
 🖥️ Java Swing GUI
-
 🎯 Basit ve anlaşılır tasarım
-
 🛠️ Kullanılan Teknolojiler
 
 Java
@@ -34,16 +27,10 @@ NetBeans / IntelliJ IDEA
 Bu proje aşağıdaki sistem üzerinde geliştirilmiştir:
 
 🖥️ İşletim Sistemi: Windows 11
-
 ⚙️ İşlemci: Intel Core i7
-
 🧠 RAM: 32 GB
-
 💾 Depolama: 1 TB SSD
-
 🎮 Ekran Kartı: NVIDIA GeForce RTX 5060
-
-☕ JDK: (Kullandığın Java sürümünü buraya yazabilirsin – örn: Java 17)
 
 📂 Proje Yapısı
 Java-swing-ile-hesap-makinesi
@@ -78,7 +65,4 @@ GUI mantığını kavramak
 Event (ActionListener) kullanımını öğrenmek
 
 Nesne yönelimli programlama pratiği yapmak
-
 amacıyla geliştirilmiştir.
-
-
