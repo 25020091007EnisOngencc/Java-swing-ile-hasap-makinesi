@@ -1,41 +1,36 @@
-🧮 Java Swing ile Hesap Makinesi
-Bu proje, Java Swing kütüphanesi kullanılarak geliştirilmiş, modern ve kullanıcı dostu bir grafiksel arayüze (GUI) sahip hesap makinesi uygulamasıdır. Klasik hesap makinesi işlevlerini dijital ortama taşırken, temiz kod yapısı ve nesne yönelimli programlama prensipleri baz alınmıştır.
+🧮 Java Swing ile Hesap Makinesi (Advanced GUI)
+Bu proje, modern kullanıcı arayüzü prensipleriyle tasarlanmış, Java Swing tabanlı bir hesap makinesi uygulamasıdır. Yazılım, sadece temel matematiksel işlemleri gerçekleştirmekle kalmaz, aynı zamanda estetik bir kullanıcı deneyimi sunmak için özelleştirilmiş bileşenler içerir.
 
-✨ Özellikler
-Temel Matematiksel İşlemler: Toplama, çıkarma, çarpma ve bölme desteği.
+🌟 Neden Bu Proje?
+Bu çalışma, üniversite eğitimim sürecinde Mühendislik Tasarım ve Mimarlık Fakültesi bünyesinde öğrendiğim nesne yönelimli programlama temellerini gerçek bir arayüz projesine dönüştürmek amacıyla geliştirilmiştir.
 
-Gelişmiş Arayüz: Kullanıcı deneyimini ön planda tutan, düzenli ve tepkisel buton tasarımı.
+✨ Gelişmiş Özellikler
+Hassas Hesaplama: double veri tipi ile yüksek hassasiyetli ondalıklı işlem desteği.
 
-Hata Yönetimi: Sıfıra bölme gibi matematiksel hatalar için kontrol mekanizması.
+Kullanıcı Dostu Arayüz: Casio donanım arayüzlerinden esinlenen, sezgisel buton yerleşimi ve renk konfigürasyonu.
 
-Hızlı Temizleme: Tek tuşla tüm girişleri sıfırlama özelliği.
+Dinamik Veri Yönetimi: İşlem geçmişini ve anlık girdileri yöneten optimize edilmiş algoritma yapısı.
 
-🛠️ Teknik Özellikler ve Donanım
-Proje aşağıdaki teknik özelliklere sahip bir ortamda geliştirilmiştir:
+Görsel Geri Bildirim: Buton etkileşimleri ve ekran güncellemeleri için akıcı UI geçişleri.
 
-IDE: Apache NetBeans / CLion
+🏗️ Teknik Mimari
+Proje, modüler bir yapı üzerine inşa edilmiştir:
 
-Dil: Java
+UI Katmanı: JFrame ve JPanel hiyerarşisi ile oluşturulan görsel yapı.
 
-İşletim Sistemi: Windows 11
+Mantık Katmanı (Logic): İşlem operatörlerini ve matematiksel fonksiyonları yöneten arka plan kodları.
 
-Donanım Altyapısı:
+Olay Yönetimi (Event Handling): ActionListener kullanılarak tasarlanmış buton tetikleme mekanizmaları.
 
-RAM: 32GB
+🛠️ Geliştirme Ortamı
+İşletim Sistemi: Windows 11.
 
-Ekran Kartı: NVIDIA RTX 5060
+IDE: Apache NetBeans IDE 29.
 
-Depolama: 1TB SSD
+Donanım Özellikleri:
 
-🚀 Kurulum ve Çalıştırma
-Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
+RAM: 32GB.
 
-Depoyu klonlayın:
+GPU: NVIDIA RTX 5060.
 
-Bash
-git clone https://github.com/25020091007EnisOngencc/Java-swing-ile-hasap-makinesi.git
-NetBeans IDE'yi açın.
-
-Open Project seçeneği ile proje klasörünü seçin.
-
-Run (Oynat) butonuna basarak uygulamayı başlatın.
+Depolama: 1TB SSD.
