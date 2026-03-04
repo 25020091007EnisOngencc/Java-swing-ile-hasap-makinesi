@@ -1,9 +1,9 @@
-💳 Java Swing ile Hesap Makinesi
+#💳 Java Swing ile Hesap Makinesi
 
 Java Swing kullanılarak geliştirilmiş masaüstü hesap makinesi uygulamasıdır.
 Temel dört işlem yapabilen, kullanıcı dostu grafik arayüze sahip bir GUI projesidir.
 
-🚀 Özellikler
+##🚀 Özellikler
 
 ➕ Toplama
 ➖ Çıkarma
@@ -22,7 +22,7 @@ Ant (build.xml)
 
 NetBeans / IntelliJ IDEA
 
-💻 Geliştirme Ortamı (Development Environment)
+##💻 Geliştirme Ortamı (Development Environment)
 
 Bu proje aşağıdaki sistem üzerinde geliştirilmiştir:
 
@@ -32,7 +32,7 @@ Bu proje aşağıdaki sistem üzerinde geliştirilmiştir:
 💾 Depolama: 1 TB SSD
 🎮 Ekran Kartı: NVIDIA GeForce RTX 5060
 
-📂 Proje Yapısı
+##📂 Proje Yapısı
 Java-swing-ile-hesap-makinesi
 │
 ├── src/
